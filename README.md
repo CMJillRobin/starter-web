@@ -15,3 +15,7 @@ As stated above, the main pupose is to prove simple examples for Git training.  
 This is a simple web project, deployment can be on any web server or even local file system.  So far so good.
 
 ## How to contribute
+
+### Copyright
+
+2017 Git. Training
