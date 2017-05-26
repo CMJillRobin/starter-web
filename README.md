@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for showing how to use Git and Github.
-Just adding more text.  For fun and rebasing example.
+Just adding more text.  For fun and rebasing example.  THen more changes from myfeature branch.
 
 ## Introduction
 
