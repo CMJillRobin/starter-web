@@ -23,4 +23,4 @@ Plase fork this repository and then issue pull requests for review.  Just adding
 
 ### Copyright
 
-2017 Git. Training - June 2017
+2017 Git. Training - June 2017  All rights reserved.
